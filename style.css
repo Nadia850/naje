@@ -1,0 +1,350 @@
+body{
+	background:grey;
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	background-color: white;
+}
+.header{
+	width: 1200px;
+	height: 100px;
+}
+.logo{
+	width: 200px;
+	float: left;
+}
+.logo img{
+	height: 90px;
+	width: 200px;
+}
+.banner{
+	width: 100px
+	float:right;
+}
+.banner img{
+	height: 100px;
+	width: 1000px;
+}
+.menu{
+	width: 1200px;
+	height: 50px;
+	background:green;
+	color: white;
+}
+.menu ul{
+	list-style: none;
+	margin: 0;
+}
+.menu ul li{
+	font-size: 18px;
+	float: left;
+	width: 156px;
+	line-height: 50px;
+	font-family: arial;
+	text-align: center;
+}
+.menu ul li a{
+	color:white;
+	text-decoration: none;
+	display: block;
+}
+.menu ul li a:hover{
+	background-color: black;
+}
+
+
+
+.menu ul li ul li{
+	display: none;
+}
+.menu ul li:hover ul li{
+	display: inline;
+}
+.content{
+	width: 1200px;
+	height:700px;
+	background-color:yellow;
+	margin: 0px;
+	
+}
+.part1{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.part2{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+.part3{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.part4{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+
+
+.part5{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.part6{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.part1 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part2 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part3 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part4 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part5 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part6 h2{
+background-color: chocolate;
+color: #fff;
+padding: 3px
+text-align:center;
+}
+.part1 img{
+width: 300px;
+height: 200px;
+
+}
+.part2 img{
+width: 350px;
+height: 200px;
+}
+.part3 img{
+width: 350px;
+height: 200px;
+}
+.part4 img{
+width: 350px;
+height: 200px;
+
+}
+.part5 img{
+width: 350px;
+height: 200px;
+}
+.part6 img{
+width: 350px;
+height: 200px;
+}
+
+
+
+    h2{
+    	text-align: center;
+    	font-size: 30px;
+    	color: steelblue;
+    }
+form{
+	width: 320px;
+	color: steelblue;
+	margin: 20px auto;
+}
+form input[type="text"] ,select{
+	display: block;
+	width: 100%;
+	margin-bottom: 25px;
+	background-color: #FAF6D9;
+	border: 2PX solid steelblue;
+}
+form input[type="password"]{
+	display: block;
+	width: 100%;
+	margin-bottom: 25px;
+	background-color: #FAF6D9;
+	border: 2PX solid steelblue;
+}
+
+form input[type="email"]{
+	display: block;
+	width: 100%;
+	margin-bottom: 25px;
+	background-color: #FAF6D9;
+	border: 2PX solid steelblue;
+}
+
+
+form iput[type="submit"]{
+
+	width: 150px;
+	height: 30px;
+	background-color: #e8491d;
+	color: #fff;
+	padding-left: 20px;
+	font-size: 20px;
+	font-family: arial;
+	border:none;
+  cursor: pointer;
+}
+form input[type="submit"]:hover{
+	background-color: steelblue;
+	cursor:pointer;
+}
+
+
+.last{
+  background-color:lightblue;
+      font-size: 18px;
+      height: 400px;
+    padding-right: 20px;
+
+      
+}
+    .last1{
+      width: 450px;
+      height: 450px;
+      float: left;
+      text-align: justify;
+      
+
+    }
+                      
+ .last1 h2{
+      font-family: arial;
+
+    }
+   
+.class2 {
+  text-align: justify;
+color: black;
+font-family: arial;
+
+}
+
+.vs{
+
+font-family: arial;
+
+}
+.vs h2 {
+  font-size: 22px;
+  color:#008080;
+margin: 22px;
+  padding: 22px;
+  }
+  .vs p{
+    font-size: 20px;
+    margin: 22px;
+  padding: 22px;
+  }
+
+
+.cont {
+  width: 450px;
+      height: 450px;
+      margin:20px;
+padding: 40px;
+      float: left;
+      text-align: justify;
+}
+.fomu{
+	float: left;
+  text-align: justify;
+color: black;
+font-family: arial;
+margin:0;
+padding: 40px;
+}
+.contactfomu{
+  
+      font-size: 18px;
+      height: 400px;
+    margin-bottom: 0;
+   padding: 25px;
+    margin-top: 15px;
+
+      
+}
+
+
+    .footer {
+  width: 100%;
+  height: 100px;
+  background-color:lightblue;
+  padding:auto;
+  margin:auto;
+  
+
+}
+.footer p{
+  margin:0;
+  padding:15px;
+  font-family: arial;
+  font-size: 18px;
+  color:black;
+
+
+}
+
+.vs{
+
+font-family: arial;
+
+}
+.vs h3 {
+  font-size: 22px;
+  color:#008080;
+margin: 22px;
+  padding: 22px;
+  }
+  .vs p{
+    font-size: 20px;
+    margin: 22px;
+  padding: 22px;
+  }
+
+
